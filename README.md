@@ -1,7 +1,5 @@
 **Lab project: Building a Highly Available, Scalable Web Application**
 
-> ![](vertopal_2c87a84b7e92473fbbbe468590cd3483/media/image1.png)
-
 ***Tạo ứng dụng web chứa các chức năng cơ bản***
 
 **[Tạo VPC ( Virtual Private Cloud)]{.underline}**
